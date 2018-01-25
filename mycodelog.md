@@ -1,5 +1,8 @@
 My Code Log for #100DaysOfCode, #CNC2018 & #30DaysofCode
 
+Day 38
+I finished half the CSS Fundamentals course & Basic Consepts on the Python 3 Tutorial. I had a closer look at properties. I played with adding style to a link: https://code.sololearn.com/WU4gU1XiH83N/#html and table with background color: https://code.sololearn.com/Wqy7kSG5qV8f/#html on @SoloLearn #Python Basic Syntax, If/Else Statements, If Statements, Accessing Properties, Variables, While Loops , Array Indexes, Array Length, While Loops with Conditionals and Iterating Over Arrays on @CodeCombat I also solved Day 1 Data Types problem: https://anitaolsen.livejournal.com/1256.html?utm_source=twsharing&utm_medium=social on @HackerRank
+
 Day 37
 I am retaking the CSS Fundamentals course on @SoloLearn I played with the text-decoration and text-shadow properties in CSS. I made my name with blur effect: https://code.sololearn.com/WA1VhxOyBgXD I practiced #Python Basic Syntax, If/Else Statements, If Statements, Nested If Statements, Variables, While Loops, Boolean Greater/Less and Accessing Properties on @CodeCombat I also joined #30DaysofCode by @hackerrank I finished Day  0:  https://anitaolsen.livejournal.com/1256.html?utm_source=twsharing&utm_medium=social and I finished my second mission from @CNC2018 here: https://anitaolsen.livejournal.com/779.html?utm_source=twsharing&utm_medium=social 
 
