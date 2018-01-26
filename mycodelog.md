@@ -1,20 +1,34 @@
-My Code Log for #100DaysOfCode, #CNC2018 & #30DaysofCode
+My Code Log for #100DaysOfCode & #CNC2018
+https://anitaolsen.livejournal.com/
+
+Day 39
+I have progressed (18% complete) on the course: How to Make Pure CSS Images to Progress With Design-Focused Frontend Development by @codingartist I have finished the CSS Fundamentals course which I retook, and I had a closer look at the border-radius property, @Keyframes, the skew() method and transforms and etc. (and realized something in which I had not understood before) on @SoloLearn I joined @DataCamp and started on the Intro to Python on the Data Science course. I have progressed (75% complete) on the course: Learn the Command Line on @Codecademy and I practiced #Python: Basic Syntax, If/Else Statements, Nested If Statements, While Loops on @CodeCombat I found the perfect site to build my portfolio on! So far, I have my CSS images, small games, a few blog layouts, a few animations and a calculator (got several but one should be enough) which I could add until I get more impressive things to put in their place!
+
+My CSS Fundamentals certificate: https://www.sololearn.com/Certificate/1023-7955299/pdf/
+Perspective: https://code.sololearn.com/WsaeWMnqRPPx
 
 Day 38
-I finished half the CSS Fundamentals course & Basic Consepts on the Python 3 Tutorial. I had a closer look at properties. I played with adding style to a link: https://code.sololearn.com/WU4gU1XiH83N/#html and table with background color: https://code.sololearn.com/Wqy7kSG5qV8f/#html on @SoloLearn I practiced #Python Basic Syntax, If/Else Statements, If Statements, Accessing Properties, Variables, While Loops, Array Indexes, Array Length, While Loops with Conditionals and Iterating Over Arrays on @CodeCombat I also solved Day 1 Data Types problem: https://anitaolsen.livejournal.com/1256.html?utm_source=twsharing&utm_medium=social on @HackerRank
+I finished half the CSS Fundamentals course & Basic Consepts on the Python 3 Tutorial. I had a closer look at properties. I played with adding style to a link, and a table with background colors on @SoloLearn I practiced #Python Basic Syntax, If/Else Statements, If Statements, Accessing Properties, Variables, While Loops, Array Indexes, Array Length, While Loops with Conditionals and Iterating Over Arrays on @CodeCombat
+
+Style to Humble Link: https://code.sololearn.com/WU4gU1XiH83N/#html
+My Favorite Coding Languages: https://code.sololearn.com/Wqy7kSG5qV8f/#html
 
 Day 37
-I am retaking the CSS Fundamentals course on @SoloLearn I played with the text-decoration and text-shadow properties in CSS. I made my name with blur effect: https://code.sololearn.com/WA1VhxOyBgXD I practiced #Python Basic Syntax, If/Else Statements, If Statements, Nested If Statements, Variables, While Loops, Boolean Greater/Less and Accessing Properties on @CodeCombat I also joined #30DaysofCode by @hackerrank I finished Day  0:  https://anitaolsen.livejournal.com/1256.html?utm_source=twsharing&utm_medium=social and I finished my second mission from @CNC2018 here: https://anitaolsen.livejournal.com/779.html?utm_source=twsharing&utm_medium=social 
+I am retaking the CSS Fundamentals course on @SoloLearn I played with the text-decoration and text-shadow properties in CSS. I made my name with blur effect. I practiced #Python Basic Syntax, If/Else Statements, If Statements, Nested If Statements, Variables, While Loops, Boolean Greater/Less and Accessing Properties on @CodeCombat I also finished the second part of my first mission from @CNC2018 
+
+My Name With Blur Effect: https://code.sololearn.com/WA1VhxOyBgXD
+First #CNC2018 mission: https://anitaolsen.livejournal.com/779.html?utm_source=twsharing&utm_medium=social
 
 Day 36
-I retook the whole HTML course on @SoloLearn (Here is the certificate: https://www.sololearn.com/Certificate/1014-7955299/pdf/), and played with SVG animations and canvas (links below). I worked on a new #CSS image. I practiced #Python basic syntax, boolean and, boolean or, If/else statements, variables, functions, strings, while loops on @CodeCombat (I was stuck for 2 days but later today, I got unstuck!) It always seems impossible until it's done -Nelson Mandela 
+I retook the whole HTML course on @SoloLearn, and played with SVG animations and canvas. I worked on a new #CSS image. I practiced #Python basic syntax, boolean and, boolean or, If/else statements, variables, functions, strings, while loops on @CodeCombat It always seems impossible until it's done -Nelson Mandela 
 
+My HTML certificate: https://www.sololearn.com/Certificate/1014-7955299/pdf/
 Pink Box Animation: https://code.sololearn.com/WWPWRIxADUAr/#html  
 Lines Rectangles Squares Circles: https://code.sololearn.com/WN22hPsaledd
 My Skills: https://code.sololearn.com/WCkmFtCzfQEt
 
 Day 35 
-I retook the lessons: Python Syntax, Tip Calculator, Strings and Console Output & Date and Time @Codecademy I finished my first mission which was to read "Intro to Coding" which covers popular tech roles, and filled out my worksheet (which can be found here: https://anitaolsen.livejournal.com/601.html) #CNC2018 
+I retook the lessons: Python Syntax, Tip Calculator, Strings and Console Output & Date and Time @Codecademy I finished the first part of my first mission which was to read "Intro to Coding" which covers popular tech roles, and filled out my worksheet (which can be found here: https://anitaolsen.livejournal.com/601.html) #CNC2018 
 
 Day 34 
 I finished my first assignment from #CNC2018 I completed the lesson: On Loops on @Codecademy I practiced #Python: basic syntax, boolean and, boolean or, if/else statements, if statements and variables on @CodeCombat The most disastrous thing that you can ever learn is your first programming language. -Alan Kay
@@ -59,7 +73,7 @@ Day 21
 I made a pure CSS Blinking Mouse: https://bit.ly/2CQRlv7 on @Codepen! I completed the course Learn JavaScript: Arrays on @Codecademy. I learned Basic Concepts in C++ on @SoloLearn. I practiced events, variables, for loops & learned about the design process within software design (app design) on @codeorg. I also worked more on my first assignment from #CNC2018, hoping to finish it very soon
 
 Day 20
-I worked on another Pure CSS image for @Codepen! The image and the link to it will be published tomorrow! I made Your Age in Dog Years calculator: https://bit.ly/2EgYTVi on @Codecademy and posted it on @SoloLearn as well: https://bit.ly/2Fa6iXI. I practiced more on sequence, debugging, loops and nested loops on @codeorg  I completed the course Learn JavaScript: Scope on @Codecademy. I worked more on my first assignment from #CNC2018, which is reading an incredible long article on coding while taking notes
+I worked on another Pure CSS image for @Codepen! The image and the link to it will be published tomorrow! I made Your Age in Dog Years calculator: https://bit.ly/2EgYTVi on @Codecademy and posted it on @SoloLearn as well: https://code.sololearn.com/W6DQ3dNr6U6s I practiced more on sequence, debugging, loops and nested loops on @codeorg  I completed the course Learn JavaScript: Scope on @Codecademy. I worked more on my first assignment from #CNC2018, which is reading an incredible long article on coding while taking notes
 
 Day 19
 I retook the HTML Fundamentals course on @SoloLearn. I reached max score with 0 mistakes! I started on my 1st assignment which I received from #CNC2018 today! I finished the Accelerated Intro to Computer Science Course on @codeorg! (A 20-hour course which covers computer science and programming concepts). I also completed the course: Learn JavaScript: Functions on @Codecademy!
@@ -80,7 +94,9 @@ Day 14
 I learned about strings, console output & date and time in Python on @Codecademy. Learned Basic Concepts with Python on @SoloLearn. Coded a pure CSS image of a Koala via @CodePen here: https://bit.ly/2lWj7vV
 
 Day 13
-I received my CSS Fundamentals course certificate from @SoloLearn! I also coded a tip calculator with Python on @Codecademy and added it to my code collection on @SoloLearn. I am looking forward to a new year with coding, and growing in knowledge & skills! 
+I received my CSS Fundamentals course certificate from @SoloLearn! I also coded a tip calculator with Python on @Codecademy and added it to my code collection on @SoloLearn I am looking forward to a new year with coding, and growing in knowledge & skills! 
+
+My Tip Calculator: https://code.sololearn.com/cSSzLppqpq8Q
 
 Day 12
 Finished lesson A Closer Look at CSS, CSS: Boundaries and Space, Building with Bootstrap and Python syntax, all on @Codecademy. Halfway through the CSS course on @SoloLearn. Loops on @codeorg. Enrolled in How to Make Pure CSS Images course
@@ -121,3 +137,5 @@ Day 1
 I just discovered this challenge the other day. Figured I would join for the support. I have finished my course in HTML (I have been coding for 3 weeks already), and I am starting on a new course in CSS on @Codecademy as well as learning from @codeorg today
 
 Start date: 19th of December, 2017.
+
+Anita Olsen's Journal: https://anitaolsen.livejournal.com/
