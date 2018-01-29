@@ -1,7 +1,6 @@
 My Code Log for #100DaysOfCode & #CNC2018
 https://anitaolsen.livejournal.com/
 
-My Code Log for #100DaysOfCode & #CNC2018
 Day 42
 I learned #Python Functions & Modules on @SoloLearn I practiced #Python by duelling with other players on @CodeCombat I began building my #portfolio today on @devportco I made Your Age in Dog Years calculator in #JavaScript on @Codepen. I finished mission 2 #StartCoding #CNC2018 I learned Python Lists and finished two exercises on @DataCamp
 
