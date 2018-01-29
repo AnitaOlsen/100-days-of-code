@@ -1,6 +1,28 @@
 My Code Log for #100DaysOfCode & #CNC2018
 https://anitaolsen.livejournal.com/
 
+My Code Log for #100DaysOfCode & #CNC2018
+Day 42
+I learned #Python Functions & Modules on @SoloLearn I practiced #Python by duelling with other players on @CodeCombat I began building my #portfolio today on @devportco I made Your Age in Dog Years calculator in #JavaScript on @Codepen. I finished mission 2 #StartCoding #CNC2018 I learned Python Lists and finished two exercises on @DataCamp
+
+My Portfolio: http://anitaolsen.devport.co/
+Your Age in Dog Years Calculator: https://codepen.io/AnitaOlsen/pen/paoRPm
+My #CNC2018 Mission 2: https://anitaolsen.livejournal.com/2549.html
+
+Day 41
+I learned Control Structures in Python, I made a simple calculator, and I learned about the WET and DRY principles on @SoloLearn I completed the lesson: Git Branching on @Codecademy I finished the chapter "Python Basics" (I practiced Guess The Type/what type of a value or a variable that refers to a spesific value, Operations with other types and Type conversion) on @DataCamp I practiced #Python Arguments, Basic Syntax, Functions, If Statements, Variables and While Loops on @CodeCombat
+
+A Simple Calculator: https://code.sololearn.com/c6qUOD50FGtw/#py
+Link to my post on Twitter about the WET and DRY principles: https://twitter.com/realAnitaOlsen/status/957684242984636417
+
+Day 40
+I retook Python Basic Concepts from the Python 3 Tutorial, and I practiced by making 7 code snippets on @SoloLearn I finished reading Python Data Types - Learn From Basic To Advanced by @techbeamers I finished Variables & Types on the Intro to Python for Data Science course + the exercises on @DataCamp I started on the Django Girls Tutorial (Learned How the Internet Works) by @djangogirls I completed the course: Learn the Command Line on @Codecademy I practiced #Python Arguments, Basic Syntax, Functions, If Statements, Variables and While Loops on @CodeCombat
+
+I have been spending time for the past 3 days to set up my laptop ready to code in Python (with a text editor and everything I need to be able to do so). I have also been persistent in practicing daily on the Learn the Command Line course on @Codecademy so I can be better at using the terminal on my own computer.
+
+My Learning Python Notes: https://code.sololearn.com/c2V3lm0uyve0
+My goal, my journey with coding, and other thoughts about the #100DaysOfCode challenge: https://anitaolsen.livejournal.com/1841.html 
+
 Day 39
 I have progressed (18% complete) on the course: How to Make Pure CSS Images to Progress With Design-Focused Frontend Development by @codingartist I have finished the CSS Fundamentals course which I retook, and I had a closer look at the border-radius property, @Keyframes, the skew() method and transforms and etc. (and realized something in which I had not understood before) on @SoloLearn I joined @DataCamp and started on the Intro to Python on the Data Science course. I have progressed (75% complete) on the course: Learn the Command Line on @Codecademy and I practiced #Python: Basic Syntax, If/Else Statements, Nested If Statements, While Loops on @CodeCombat I found the perfect site to build my portfolio on! So far, I have my CSS images, small games, a few blog layouts, a few animations and a calculator (got several but one should be enough) which I could add until I get more impressive things to put in their place!
 
