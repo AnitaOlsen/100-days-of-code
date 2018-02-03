@@ -1,5 +1,15 @@
 My Code Log for #100DaysOfCode & #CNC2018
-https://anitaolsen.livejournal.com/
+
+D46 #100DaysOfCode Submitted the Backwoods Brawl level & practiced #Python by duelling other players @CodeCombat Retook Conditionals & Flow and Pyglatin from the Learn Python Course & made a Pig Latin translator @Codecademy My Code Log: http://bit.ly/2FyELOW Happy Weekend! 🎉
+
+Day 45
+I finished Pythonicness & Packaging. I learned: ternary operator, more on else statements, __main__ , major 3rd-party libraries, packages, packagers for users & I successfully finished the Python 3 Tutorial course on @SoloLearn I practiced #Python by duelling other players on @CodeCombat I worked on a heart in CSS on @Codepen I also learned about ASCII Art, and I wrote How do I Know When I Will be Ready to Work on a Shared Project & When Will I be Ready for Hire?
+
+Day 44 #100DaysOfCode I practiced basic syntax, while loops, functions and variables while duelling other players on @CodeCombat I learned Functional Programming like lambdas, map & filter, generators, decorators, recursion, sets, itertools, Object-Oriented Programming with classes, inheritance, magic methods & operator overloading, object lifecycle, data hiding, class & static methods, properties & Regular Expressions with simple metacharacters, character classes, groups, special sequences, email extraction, and I learned about Python's philosophy: The Zen of Python on @SoloLearn I wrote Know That Computers Are Stupid And You Are Intelligent, Not The Other Way Around! which is about my struggle with coding and about my path on my coding journey. on @SoloLearn I wrote Know That Computers Are Stupid And You Are Intelligent, Not The Other Way Around! which is about my struggle with coding and about the path of my coding journey.
+
+Know That Computers Are Stupid And You Are Intelligent, Not The Other Way Around! https://anitaolsen.livejournal.com/3443.html
+
+D43 #100DaysOfCode Exceptions & Files and More Types @SoloLearn Practiced #Python by duelling with other players @CodeCombat #Python Basic Syntax, Strings & Console Output & Date and Time @Codecademy Wrote about portfolio: http://bit.ly/2rPQFSB My Code Log: http://anitaolsen.livejournal.com
 
 Day 42
 I learned #Python Functions & Modules on @SoloLearn I practiced #Python by duelling with other players on @CodeCombat I began building my #portfolio today on @devportco I made Your Age in Dog Years calculator in #JavaScript on @Codepen. I finished mission 2 #StartCoding #CNC2018 I learned Python Lists and finished two exercises on @DataCamp
