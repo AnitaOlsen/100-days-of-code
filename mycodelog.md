@@ -1,6 +1,8 @@
 My Code Log for #100DaysOfCode & #CNC2018
 
-D46 #100DaysOfCode Submitted the Backwoods Brawl level & practiced #Python by duelling other players @CodeCombat Retook Conditionals & Flow and Pyglatin from the Learn Python Course & made a Pig Latin translator @Codecademy My Code Log: http://bit.ly/2FyELOW Happy Weekend! 🎉
+Day 47 I have been #coding every day for 50 consecutive days, received 100 badges in total & retook Functions from the Learn Python Course on @Codecademy Practiced #Python by duelling other players on @CodeCombat 
+
+Day 46 I submitted the Backwoods Brawl level & practiced #Python by duelling other players on @CodeCombat I retook Conditionals & Flow and Pyglatin from the Learn Python Course & made a Pig Latin translator on @Codecademy Happy Weekend! 🎉
 
 Day 45
 I finished Pythonicness & Packaging. I learned: ternary operator, more on else statements, __main__ , major 3rd-party libraries, packages, packagers for users & I successfully finished the Python 3 Tutorial course on @SoloLearn I practiced #Python by duelling other players on @CodeCombat I worked on a heart in CSS on @Codepen I also learned about ASCII Art, and I wrote How do I Know When I Will be Ready to Work on a Shared Project & When Will I be Ready for Hire?
