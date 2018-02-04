@@ -1,5 +1,7 @@
 My Code Log for #100DaysOfCode & #CNC2018
 
+Day 48 #100DaysOfCode Practiced #Python Basic Syntax, Arguments, Strings, duelled other players & learned about clean code🔍 @CodeCombat Retook the Taking a Vacation lesson from the Learn Python course @Codecademy Retook Basic Concepts from the Python 3 Tutorial course @SoloLearn
+
 Day 47 I have been #coding every day for 50 consecutive days, received 100 badges in total & retook Functions from the Learn Python Course on @Codecademy Practiced #Python by duelling other players on @CodeCombat 
 
 Day 46 I submitted the Backwoods Brawl level & practiced #Python by duelling other players on @CodeCombat I retook Conditionals & Flow and Pyglatin from the Learn Python Course & made a Pig Latin translator on @Codecademy Happy Weekend! 🎉
