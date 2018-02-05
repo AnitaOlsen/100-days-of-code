@@ -1,5 +1,7 @@
 My Code Log for #100DaysOfCode & #CNC2018
 
+Day 49 #100DaysOfCode  Practiced: Basic Syntax, Arithmetic, Boolean Equality, Boolean Greater/Less, Arguments, Strings, While Loops, Reading the Docs, If Statements, If/Else Statements, Nested If Statemnts, Variables, Assigning Properties, Basic HTML & Game Development! @CodeCombat
+
 Day 48 #100DaysOfCode Practiced #Python Basic Syntax, Arguments, Strings, duelled other players & learned about clean code🔍 @CodeCombat Retook the Taking a Vacation lesson from the Learn Python course @Codecademy Retook Basic Concepts from the Python 3 Tutorial course @SoloLearn
 
 Day 47 I have been #coding every day for 50 consecutive days, received 100 badges in total & retook Functions from the Learn Python Course on @Codecademy Practiced #Python by duelling other players on @CodeCombat 
