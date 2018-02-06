@@ -1,4 +1,4 @@
-My Code Log for #100DaysOfCode & #CNC2018
+Anita Olsen's Code Log for #100DaysOfCode & #CNC2018
 
 Day 50 #100DaysOfCode 🍾 I practiced: If/Else Statements, If Statements, Nested If Statements, Accessing Properties, Arguments, Strings, Variables, While Loops, Basic Syntax, Functions, Basic HTML, Basic CSS, Made a Wanted Poster & finished the Web Development level on @CodeCombat 
 
