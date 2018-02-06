@@ -17,16 +17,16 @@ I finished Pythonicness & Packaging. I learned: ternary operator, more on else s
 
 Day 44 #100DaysOfCode I practiced basic syntax, while loops, functions and variables while duelling other players on @CodeCombat I learned Functional Programming like lambdas, map & filter, generators, decorators, recursion, sets, itertools, Object-Oriented Programming with classes, inheritance, magic methods & operator overloading, object lifecycle, data hiding, class & static methods, properties & Regular Expressions with simple metacharacters, character classes, groups, special sequences, email extraction, and I learned about Python's philosophy: The Zen of Python on @SoloLearn I wrote Know That Computers Are Stupid And You Are Intelligent, Not The Other Way Around! which is about my struggle with coding and about my path on my coding journey. on @SoloLearn I wrote Know That Computers Are Stupid And You Are Intelligent, Not The Other Way Around! which is about my struggle with coding and about the path of my coding journey.
 
-Know That Computers Are Stupid And You Are Intelligent, Not The Other Way Around! https://anitaolsen.livejournal.com/3443.html
+Know That Computers Are Stupid And You Are Intelligent, Not The Other Way Around! https://dev.to/realanitaolsen/know-that-computers-are-stupid-and-you-are-intelligent-not-the-other-way-around-4fn3
 
-D43 #100DaysOfCode Exceptions & Files and More Types @SoloLearn Practiced #Python by duelling with other players @CodeCombat #Python Basic Syntax, Strings & Console Output & Date and Time @Codecademy Wrote about portfolio: http://bit.ly/2rPQFSB My Code Log: http://anitaolsen.livejournal.com
+D43 #100DaysOfCode Exceptions & Files and More Types @SoloLearn Practiced #Python by duelling with other players @CodeCombat #Python Basic Syntax, Strings & Console Output & Date and Time @Codecademy Wrote about portfolio: https://dev.to/realanitaolsen/o-portfolio-portfolio-oek 
 
 Day 42
 I learned #Python Functions & Modules on @SoloLearn I practiced #Python by duelling with other players on @CodeCombat I began building my #portfolio today on @devportco I made Your Age in Dog Years calculator in #JavaScript on @Codepen. I finished mission 2 #StartCoding #CNC2018 I learned Python Lists and finished two exercises on @DataCamp
 
-My Portfolio: http://anitaolsen.devport.co/
+My Portfolio: https://dev.to/realanitaolsen/o-portfolio-portfolio-oek
 Your Age in Dog Years Calculator: https://codepen.io/AnitaOlsen/pen/paoRPm
-My #CNC2018 Mission 2: https://anitaolsen.livejournal.com/2549.html
+My #CNC2018 Mission 2: https://dev.to/realanitaolsen/cnc-mission-2-languages--frameworks---worksheet-cnc2018-startcoding-53g3
 
 Day 41
 I learned Control Structures in Python, I made a simple calculator, and I learned about the WET and DRY principles on @SoloLearn I completed the lesson: Git Branching on @Codecademy I finished the chapter "Python Basics" (I practiced Guess The Type/what type of a value or a variable that refers to a spesific value, Operations with other types and Type conversion) on @DataCamp I practiced #Python Arguments, Basic Syntax, Functions, If Statements, Variables and While Loops on @CodeCombat
@@ -40,7 +40,7 @@ I retook Python Basic Concepts from the Python 3 Tutorial, and I practiced by ma
 I have been spending time for the past 3 days to set up my laptop ready to code in Python (with a text editor and everything I need to be able to do so). I have also been persistent in practicing daily on the Learn the Command Line course on @Codecademy so I can be better at using the terminal on my own computer.
 
 My Learning Python Notes: https://code.sololearn.com/c2V3lm0uyve0
-My goal, my journey with coding, and other thoughts about the #100DaysOfCode challenge: https://anitaolsen.livejournal.com/1841.html 
+My goal, my journey with coding, and other thoughts about the #100DaysOfCode challenge: https://dev.to/realanitaolsen/my-100daysofcode-goal-2f5
 
 Day 39
 I have progressed (18% complete) on the course: How to Make Pure CSS Images to Progress With Design-Focused Frontend Development by @codingartist I have finished the CSS Fundamentals course which I retook, and I had a closer look at the border-radius property, @Keyframes, the skew() method and transforms and etc. (and realized something in which I had not understood before) on @SoloLearn I joined @DataCamp and started on the Intro to Python on the Data Science course. I have progressed (75% complete) on the course: Learn the Command Line on @Codecademy and I practiced #Python: Basic Syntax, If/Else Statements, Nested If Statements, While Loops on @CodeCombat I found the perfect site to build my portfolio on! So far, I have my CSS images, small games, a few blog layouts, a few animations and a calculator (got several but one should be enough) which I could add until I get more impressive things to put in their place!
@@ -58,7 +58,7 @@ Day 37
 I am retaking the CSS Fundamentals course on @SoloLearn I played with the text-decoration and text-shadow properties in CSS. I made my name with blur effect. I practiced #Python Basic Syntax, If/Else Statements, If Statements, Nested If Statements, Variables, While Loops, Boolean Greater/Less and Accessing Properties on @CodeCombat I also finished the second part of my first mission from @CNC2018 
 
 My Name With Blur Effect: https://code.sololearn.com/WA1VhxOyBgXD
-First #CNC2018 mission: https://anitaolsen.livejournal.com/779.html?utm_source=twsharing&utm_medium=social
+First #CNC2018 mission: https://dev.to/realanitaolsen/cnc-start-coding---reality-check-worksheet-cnc2018-startcoding-1j86
 
 Day 36
 I retook the whole HTML course on @SoloLearn, and played with SVG animations and canvas. I worked on a new #CSS image. I practiced #Python basic syntax, boolean and, boolean or, If/else statements, variables, functions, strings, while loops on @CodeCombat It always seems impossible until it's done -Nelson Mandela 
@@ -69,7 +69,7 @@ Lines Rectangles Squares Circles: https://code.sololearn.com/WN22hPsaledd
 My Skills: https://code.sololearn.com/WCkmFtCzfQEt
 
 Day 35 
-I retook the lessons: Python Syntax, Tip Calculator, Strings and Console Output & Date and Time @Codecademy I finished the first part of my first mission which was to read "Intro to Coding" which covers popular tech roles, and filled out my worksheet (which can be found here: https://anitaolsen.livejournal.com/601.html) #CNC2018 
+I retook the lessons: Python Syntax, Tip Calculator, Strings and Console Output & Date and Time @Codecademy I finished the first part of my first mission which was to read "Intro to Coding" which covers popular tech roles, and filled out my worksheet (which can be found here: https://dev.to/realanitaolsen/start-coding-worksheet-cnc2018-startcoding-3f39) #CNC2018 
 
 Day 34 
 I finished my first assignment from #CNC2018 I completed the lesson: On Loops on @Codecademy I practiced #Python: basic syntax, boolean and, boolean or, if/else statements, if statements and variables on @CodeCombat The most disastrous thing that you can ever learn is your first programming language. -Alan Kay
