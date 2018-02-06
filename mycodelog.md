@@ -1,5 +1,9 @@
 My Code Log for #100DaysOfCode & #CNC2018
 
+Day 50 #100DaysOfCode 🍾 I practiced: If/Else Statements, If Statements, Nested If Statements, Accessing Properties, Arguments, Strings, Variables, While Loops, Basic Syntax, Functions, Basic HTML, Basic CSS, Made a Wanted Poster & finished the Web Development level on @CodeCombat 
+
+My Wanted Poster: https://codecombat.com/play/web-dev-level/5a7911d335a75c0023c5c9ee
+
 Day 49 #100DaysOfCode  Practiced: Basic Syntax, Arithmetic, Boolean Equality, Boolean Greater/Less, Arguments, Strings, While Loops, Reading the Docs, If Statements, If/Else Statements, Nested If Statemnts, Variables, Assigning Properties, Basic HTML & Game Development! @CodeCombat
 
 Day 48 #100DaysOfCode Practiced #Python Basic Syntax, Arguments, Strings, duelled other players & learned about clean code🔍 @CodeCombat Retook the Taking a Vacation lesson from the Learn Python course @Codecademy Retook Basic Concepts from the Python 3 Tutorial course @SoloLearn
