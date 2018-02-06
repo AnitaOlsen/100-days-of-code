@@ -24,7 +24,7 @@ D43 #100DaysOfCode Exceptions & Files and More Types @SoloLearn Practiced #Pytho
 Day 42
 I learned #Python Functions & Modules on @SoloLearn I practiced #Python by duelling with other players on @CodeCombat I began building my #portfolio today on @devportco I made Your Age in Dog Years calculator in #JavaScript on @Codepen. I finished mission 2 #StartCoding #CNC2018 I learned Python Lists and finished two exercises on @DataCamp
 
-My Portfolio: https://dev.to/realanitaolsen/o-portfolio-portfolio-oek
+My Portfolio: http://anitaolsen.devport.co
 Your Age in Dog Years Calculator: https://codepen.io/AnitaOlsen/pen/paoRPm
 My #CNC2018 Mission 2: https://dev.to/realanitaolsen/cnc-mission-2-languages--frameworks---worksheet-cnc2018-startcoding-53g3
 
@@ -178,5 +178,3 @@ Day 1
 I just discovered this challenge the other day. Figured I would join for the support. I have finished my course in HTML (I have been coding for 3 weeks already), and I am starting on a new course in CSS on @Codecademy as well as learning from @codeorg today
 
 Start date: 19th of December, 2017.
-
-Anita Olsen's Journal: https://anitaolsen.livejournal.com/
