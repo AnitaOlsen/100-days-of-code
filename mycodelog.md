@@ -1,5 +1,7 @@
 Anita Olsen's Code Log for #100DaysOfCode & #CNC2018
 
+Day 53 #100DaysOfCode Practiced: Arguments, Basic Syntax, If/Else Statements, If Statements, Nested If Statements, Accessing Properties, Return Statements, Functions, Strings, While Loops and duelled other players on @CodeCombat
+
 Day 52 #100DaysOfCode Practiced: Arguments, Basic Syntax, If Statements, If/Else Statements, Nested If Statements, Accessing Properties, Variables, While Loops, Functions, Strings, Boolean Greater/Less and duelled other players on @CodeCombat
 
 Day 51 #100DaysOfCode Practiced: Basic Syntax, Functions, If Statements, Nested If Statements, Strings, While Loops, Arguments, Arithmetic, Variables, Assigning Properties, Return Statements @CodeCombat Finished Mission 3: http://bit.ly/2nJcGOr #StartCoding @CNC2018 #CodeNewbie
