@@ -1,5 +1,11 @@
 Anita Olsen's Code Log for #100DaysOfCode & #CNC2018
 
+This round got terminated. I have started anew.
+
+Day 55 #100DaysOfCode I practiced: Boolean Or, If Statements, Accessing Properties, Strings, Variables, While Loops, and I also duelled other players on @CodeCombat
+
+Day 54 #100DaysOfCode I retook Basic Concepts from the Learn Python Tutorial Course on @SoloLearn and I duelled other players on @CodeCombat
+
 Day 53 #100DaysOfCode Practiced: Arguments, Basic Syntax, If/Else Statements, If Statements, Nested If Statements, Accessing Properties, Return Statements, Functions, Strings, While Loops and duelled other players on @CodeCombat
 
 Day 52 #100DaysOfCode Practiced: Arguments, Basic Syntax, If Statements, If/Else Statements, Nested If Statements, Accessing Properties, Variables, While Loops, Functions, Strings, Boolean Greater/Less and duelled other players on @CodeCombat
