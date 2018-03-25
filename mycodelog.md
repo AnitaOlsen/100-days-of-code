@@ -1,6 +1,33 @@
-Anita Olsen's Code Log for #100DaysOfCode & #CNC2018
+My Code Log for #100DaysOfCode  https://tinyurl.com/100DaysOfCodeLog
 
-This round got terminated. I have started anew.
+D6 #100DaysOfCode Practiced Arguments, Basic Syntax, Strings, While Loops, If Statements, Variables, Arithmetic, Boolean Equality, Boolean Greater/Less, Reading the Docs & Basic HTML @CodeCombat Completed Exercise 1. A Good First Program @zedshaw "Learn Python 3 the Hard Way"
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+D5 #100DaysOfCode Practiced Arguments, Basic Syntax, Assigning Properties, Strings, Variables, Place game objects, Construct mazes, Create a playable, sharable game project & Basic HTML - Game Development 1 completed! @CodeCombat Play the game I made here: https://bit.ly/2DRb36s 
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+
+D4 #100DaysOfCode Game Development 1: Practiced Arguments, Basic Syntax & Strings, Reviewed Kithgard Dungeon @CodeCombat Retook Basic Concepts from the Python 3 Tutorial @SoloLearn Section 1 Up And Running With Python, Section 2 All The Basics 2. Welcome! 3. Getting Started @Udemy
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+D3 #100DaysOfCode Practiced Arguments, Basic Syntax, Strings, While Loops, Variables & If Statements - Kithgard Dungeon completed! @CodeCombat Learned & practiced a list of commands for the terminal from the Command Line Crash Course @zedshaw book «Learn Python 3 the Hard Way» Completed lesson: Manipulation from Learn the Command Line course @Codecademy
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+D2 #100DaysOfCode Practiced Arguments, Basic Syntax, Strings, While Loops, Reading the Docs & Variables @CodeCombat Completed lesson: Navigation from Learn the Command Line course @Codecademy Completed chapter: Python Basics @DataCamp
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+D1 #100DaysOfCode Completed the course: Welcome to Codecademy! @Codecademy #learningpython from @zedshaw book «Learn Python 3 the Hard Way» Completed Exercise 0: The Setup. Got Python 3 & Atom on my Mac. Practiced Basic Syntax, Arguments & Strings @CodeCombat
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+
+This round got terminated. I have restarted the challenge (above).
+
+Anita Olsen's Code Log for #100DaysOfCode & #CNC2018
 
 Day 55 #100DaysOfCode I practiced: Boolean Or, If Statements, Accessing Properties, Strings, Variables, While Loops, and I also duelled other players on @CodeCombat
 
