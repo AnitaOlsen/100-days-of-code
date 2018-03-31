@@ -1,38 +1,53 @@
 My Code Log for #100DaysOfCode  https://tinyurl.com/100DaysOfCodeLog
 
-D9 #100DaysOfCode Practiced Arguments, Basic Syntax, If, If/Else, Nested Statements, Variables, While Loops, Accessing Properties, Functions, Arithmetic @CodeCombat Completed Exercise 5. More Variables and Printing & Exercise 6. Strings and Text @lzsthw "Learn Python 3 the Hard Way"
+Day 12
+Basic Syntax, Functions, If Statements, Accessing Properties, Strings, Variables, While Loops, Place game objects, Basic Game AI, Event Data & Basic Event Handling @CodeCombat Exercise 11 @lzsthw "Learn Python 3 the Hard Way" Completed the lesson: Python Syntax from the Learn Python Course @Codecademy
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-D8 #100DaysOfCode Completed Exercise 4. Variables and Names @lzsthw
+Day 11
+Completed Exercise 10. What Was That? @lzsthw «Learn Python 3 the Hard Way» Game Development 2: Practiced Functions, If/Else Statements, if Statements, Strings, Variables, While Loops, Arguments, Basic Syntax, Accessing Properties & Event Data @CodeCombat
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Day 10
+Completed Exercise 7, 8 & 9 on Printing @lzsthw «Learn Python 3 the Hard Way» Practiced Arguments, Basic Syntax, Functions, If Statements, If/Else Statements, Nested If Statements, Variables, While Loops & Strings @CodeCombat
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+D9 Practiced Arguments, Basic Syntax, If, If/Else, Nested Statements, Variables, While Loops, Accessing Properties, Functions, Arithmetic @CodeCombat Completed Exercise 5. More Variables and Printing & Exercise 6. Strings and Text @lzsthw "Learn Python 3 the Hard Way"
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+D8 Completed Exercise 4. Variables and Names @lzsthw
 "Learn Python 3 the Hard Way" Practiced Basic Syntax, If/Else Statements, If Statements, Strings, Variables, While Loops, Arguments, Nested If Statements, Boolean Greater/Less & Accessing Properties @CodeCombat
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-D7 #100DaysOfCode Completed Exercise 2. Comments and Pound Characters & Exercise 3. Numbers and Math @lzsthw "Learn Python 3 the Hard Way" Practiced Basic HTML & Basic CSS - Web Development 1 Completed! @CodeCombat Check out my wanted poster here: https://codecombat.com/play/web-dev-level/5ab7c49e24b79f003bb42616
+D7 Completed Exercise 2. Comments and Pound Characters & Exercise 3. Numbers and Math @lzsthw "Learn Python 3 the Hard Way" Practiced Basic HTML & Basic CSS - Web Development 1 Completed! @CodeCombat Check out my wanted poster here: https://codecombat.com/play/web-dev-level/5ab7c49e24b79f003bb42616
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-D6 #100DaysOfCode Practiced Arguments, Basic Syntax, Strings, While Loops, If Statements, Variables, Arithmetic, Boolean Equality, Boolean Greater/Less, Reading the Docs & Basic HTML @CodeCombat Completed Exercise 1. A Good First Program @lzsthw "Learn Python 3 the Hard Way"
+D6 Practiced Arguments, Basic Syntax, Strings, While Loops, If Statements, Variables, Arithmetic, Boolean Equality, Boolean Greater/Less, Reading the Docs & Basic HTML @CodeCombat Completed Exercise 1. A Good First Program @lzsthw "Learn Python 3 the Hard Way"
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-D5 #100DaysOfCode Practiced Arguments, Basic Syntax, Assigning Properties, Strings, Variables, Place game objects, Construct mazes, Create a playable, sharable game project & Basic HTML - Game Development 1 completed! @CodeCombat Play the game I made here: https://bit.ly/2DRb36s 
+D5 Practiced Arguments, Basic Syntax, Assigning Properties, Strings, Variables, Place game objects, Construct mazes, Create a playable, sharable game project & Basic HTML - Game Development 1 completed! @CodeCombat Play the game I made here: https://bit.ly/2DRb36s 
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 
-D4 #100DaysOfCode Game Development 1: Practiced Arguments, Basic Syntax & Strings, Reviewed Kithgard Dungeon @CodeCombat Retook Basic Concepts from the Python 3 Tutorial @SoloLearn Section 1 Up And Running With Python, Section 2 All The Basics 2. Welcome! 3. Getting Started @Udemy
+D4 Game Development 1: Practiced Arguments, Basic Syntax & Strings, Reviewed Kithgard Dungeon @CodeCombat Retook Basic Concepts from the Python 3 Tutorial @SoloLearn Section 1 Up And Running With Python, Section 2 All The Basics 2. Welcome! 3. Getting Started @Udemy
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-D3 #100DaysOfCode Practiced Arguments, Basic Syntax, Strings, While Loops, Variables & If Statements - Kithgard Dungeon completed! @CodeCombat Learned & practiced a list of commands for the terminal from the Command Line Crash Course @lzsthw book "Learn Python 3 the Hard Way" Completed lesson: Manipulation from Learn the Command Line course @Codecademy
+D3 Practiced Arguments, Basic Syntax, Strings, While Loops, Variables & If Statements - Kithgard Dungeon completed! @CodeCombat Learned & practiced a list of commands for the terminal from the Command Line Crash Course @lzsthw book "Learn Python 3 the Hard Way" Completed lesson: Manipulation from Learn the Command Line course @Codecademy
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-D2 #100DaysOfCode Practiced Arguments, Basic Syntax, Strings, While Loops, Reading the Docs & Variables @CodeCombat Completed lesson: Navigation from Learn the Command Line course @Codecademy Completed chapter: Python Basics @DataCamp
+D2 Practiced Arguments, Basic Syntax, Strings, While Loops, Reading the Docs & Variables @CodeCombat Completed lesson: Navigation from Learn the Command Line course @Codecademy Completed chapter: Python Basics @DataCamp
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-D1 #100DaysOfCode Completed the course: Welcome to Codecademy! @Codecademy #learningpython from @lzsthw book "Learn Python 3 the Hard Way" Completed Exercise 0: The Setup. Got Python 3 & Atom on my Mac. Practiced Basic Syntax, Arguments & Strings @CodeCombat
+D1 Completed the course: Welcome to Codecademy! @Codecademy #learningpython from @lzsthw book "Learn Python 3 the Hard Way" Completed Exercise 0: The Setup. Got Python 3 & Atom on my Mac. Practiced Basic Syntax, Arguments & Strings @CodeCombat
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
