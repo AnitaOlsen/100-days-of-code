@@ -1,7 +1,7 @@
 My Code Log for #100DaysOfCode  https://tinyurl.com/100DaysOfCodeLog
 
 Day 12
-Basic Syntax, Functions, If Statements, Accessing Properties, Strings, Variables, While Loops, Place game objects, Basic Game AI, Event Data & Basic Event Handling @CodeCombat Exercise 11 @lzsthw "Learn Python 3 the Hard Way" Completed the lesson: Python Syntax from the Learn Python Course @Codecademy
+Basic Syntax, Functions, If Statements, Accessing Properties, Strings, Variables, While Loops, Place game objects, Basic Game AI, Event Data & Basic Event Handling @CodeCombat Completed Exercise 11 @lzsthw "Learn Python 3 the Hard Way" Completed the lesson: Python Syntax from the Learn Python Course @Codecademy
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
