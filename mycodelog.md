@@ -19,22 +19,22 @@ Day 12
 Practiced #Python Basic Syntax, Functions, If Statements, Accessing Properties, Strings, Variables, While Loops, Place game objects, Basic Game AI, Event Data & Basic Event Handling @CodeCombat Exercise 11 @lzsthw "Learn Python 3 the Hard Way" Completed the lesson: Python Syntax from the Learn Python Course @Codecademy
 
 Day 11
-Completed Exercise 10. What Was That? @lzsthw «Learn Python 3 the Hard Way» Game Development 2: Practiced #Python Functions, If/Else Statements, if Statements, Strings, Variables, While Loops, Arguments, Basic Syntax, Accessing Properties & Event Data @CodeCombat
+Completed Exercise 10. What Was That? @lzsthw "Learn Python 3 the Hard Way" Game Development 2: Practiced #Python Functions, If/Else Statements, if Statements, Strings, Variables, While Loops, Arguments, Basic Syntax, Accessing Properties & Event Data @CodeCombat
 
 Day 10
-Completed Exercise 7, 8 & 9 on Printing @lzsthw «Learn Python 3 the Hard Way» Practiced Arguments, Basic Syntax, Functions, If Statements, If/Else Statements, Nested If Statements, Variables, While Loops & Strings @CodeCombat
+Completed Exercise 7, 8 & 9 on Printing @lzsthw "Learn Python 3 the Hard Way" Practiced Arguments, Basic Syntax, Functions, If Statements, If/Else Statements, Nested If Statements, Variables, While Loops & Strings @CodeCombat
 
 Day 9
-Practiced #Python Arguments, Basic Syntax, If, If/Else, Nested Statements, Variables, While Loops, Accessing Properties, Functions, Arithmetic @CodeCombat Completed Exercise 5. More Variables and Printing & Exercise 6. Strings and Text «Learn Python 3 the Hard Way»
+Practiced #Python Arguments, Basic Syntax, If, If/Else, Nested Statements, Variables, While Loops, Accessing Properties, Functions, Arithmetic @CodeCombat Completed Exercise 5. More Variables and Printing & Exercise 6. Strings and Text @lzsthw "Learn Python 3 the Hard Way"
 
 Day 8
-Completed Exercise 4. Variables and Names @zedshaw «Learn Python 3 the Hard Way» Practiced Basic Syntax, If/Else Statements, If Statements, Strings, Variables, While Loops, Arguments, Nested If Statements, Boolean Greater/Less & Accessing Properties @CodeCombat
+Completed Exercise 4. Variables and Names @lzsthw "Learn Python 3 the Hard Way" Practiced Basic Syntax, If/Else Statements, If Statements, Strings, Variables, While Loops, Arguments, Nested If Statements, Boolean Greater/Less & Accessing Properties @CodeCombat
 
 Day 7
-Completed Exercise 2. Comments and Pound Characters & Exercise 3. Numbers and Math @zedshaw «Learn Python 3 the Hard Way» Practiced Basic HTML & Basic CSS - Web Development 1 Completed! @CodeCombat Check out my wanted poster here: https://codecombat.com/play/web-dev-level/5ab7c49e24b79f003bb42616
+Completed Exercise 2. Comments and Pound Characters & Exercise 3. Numbers and Math @lzsthw "Learn Python 3 the Hard Way" Practiced Basic HTML & Basic CSS - Web Development 1 Completed! @CodeCombat Check out my wanted poster here: https://codecombat.com/play/web-dev-level/5ab7c49e24b79f003bb42616
 
 Day 6
-Practiced #Python Arguments, Basic Syntax, Strings, While Loops, If Statements, Variables, Arithmetic, Boolean Equality, Boolean Greater/Less, Reading the Docs & Basic HTML @CodeCombat Completed Exercise 1. A Good First Program @zedshaw "Learn Python 3 the Hard Way"
+Practiced #Python Arguments, Basic Syntax, Strings, While Loops, If Statements, Variables, Arithmetic, Boolean Equality, Boolean Greater/Less, Reading the Docs & Basic HTML @CodeCombat Completed Exercise 1. A Good First Program @lzsthw "Learn Python 3 the Hard Way"
 
 Day 5
 Practiced #Python Arguments, Basic Syntax, Assigning Properties, Strings, Variables, Place game objects, Construct mazes, Create a playable, sharable game project & Basic HTML - Game Development 1 completed! @CodeCombat Play the game I made here: https://codecombat.com/play/game-dev-level/5ab627b5752473002ee410df
@@ -43,13 +43,13 @@ Day 4
 Game Development 1: Practiced #Python Arguments, Basic Syntax, Strings & reviewed Kithgard Dungeon @CodeCombat Retook Basic Concepts from the Python 3 Tutorial @SoloLearn Section 1 Up And Running With Python, Section 2 All The Basics 2. Welcome! 3. Getting Started @Udemy
 
 Day 3
-Practiced #Python Arguments, Basic Syntax, Strings, While Loops, Variables & If Statements - Kithgard Dungeon completed! @CodeCombat Learned & practiced a list of commands for the terminal from the Command Line Crash Course @zedshaw book «Learn Python 3 the Hard Way» Completed lesson: Manipulation from Learn the Command Line course @Codecademy
+Practiced #Python Arguments, Basic Syntax, Strings, While Loops, Variables & If Statements - Kithgard Dungeon completed! @CodeCombat Learned & practiced a list of commands for the terminal from the Command Line Crash Course @lzsthw book "Learn Python 3 the Hard Way" Completed lesson: Manipulation from Learn the Command Line course @Codecademy
 
 Day 2
 Practiced #Python Arguments, Basic Syntax, Strings, While Loops, Reading the Docs & Variables @CodeCombat Completed lesson: Navigation from Learn the Command Line course @Codecademy Completed chapter: Python Basics @DataCamp
 
 Day 1
-Completed the course: Welcome to Codecademy! @Codecademy #learningpython from @zedshaw book «Learn Python 3 the Hard Way» Completed Exercise 0: The Setup. Got Python 3 & Atom on my Mac. Practiced #Python Basic Syntax, Arguments & Strings @CodeCombat
+Completed the course: Welcome to Codecademy! @Codecademy #learningpython from @lzsthw book "Learn Python 3 the Hard Way" Completed Exercise 0. The Setup. Got Python 3 & Atom on my Mac. Practiced #Python Basic Syntax, Arguments & Strings @CodeCombat
 
 Start date: 20th of March, 2018. 
 
