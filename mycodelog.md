@@ -1,5 +1,8 @@
 My Code Log for #100DaysOfCode  https://tinyurl.com/100DaysOfCodeLog
 
+Day 18
+Web Development 2: Practiced #jQuery Basic HTML, Basic CSS & Basic Web Scripting all day. Did not get to finish the last level. I can come back and finish it another time. Backwoods Forest with Python tomorrow! @CodeCombat 
+
 Day 17
 Web Development 2: Practiced #JavaScript Basic Syntax, Strings, While Loops, Variables, Arguments, If Statements, If/Else Statements, Nested If Statements, Boolean Greater/Less & Accessing Properties @CodeCombat
 
