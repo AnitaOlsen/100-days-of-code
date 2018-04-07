@@ -1,5 +1,8 @@
 My Code Log for #100DaysOfCode  https://tinyurl.com/100DaysOfCodeLog
 
+Day 19
+Practiced #Python Basic Syntax, Functions, Accessing Properties, Strings, Variables, While Loops, If Statements, Nested If Statements, Return Statements, Arguments, Arithmetic & Boolean Or @CodeCombat Getting Started with Python, Strings and Integers completed @Progate
+
 Day 18
 Web Development 2: Practiced #jQuery Basic HTML, Basic CSS & Basic Web Scripting all day. I also began coding on a new game.
 I did not get to finish the last level. I can come back and finish it another time. Backwoods Forest with Python tomorrow!  @CodeCombat 
