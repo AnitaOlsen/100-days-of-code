@@ -1,5 +1,8 @@
 My Code Log for #100DaysOfCode  https://tinyurl.com/100DaysOfCodeLog
 
+Day 20
+Practiced #Python Basic Syntax, Variables, If Statements, If/Else Statements, Boolean And & Boolean Or @CodeCombat Lessons completed: Calculations, Variables, Using Variables, Updating Variables, String Concatenation, Data Types, if Statements, Booleans & else Statements #Progate Course Completed: Learn #SQL - Manipulation @Codecademy
+
 Day 19
 Practiced #Python Basic Syntax, Functions, Accessing Properties, Strings, Variables, While Loops, If Statements, Nested If Statements, Return Statements, Arguments, Arithmetic & Boolean Or @CodeCombat Getting Started with Python, Strings and Integers completed @Progate
 
