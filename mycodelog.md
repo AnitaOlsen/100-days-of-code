@@ -1,7 +1,7 @@
 My Code Log for #100DaysOfCode  https://tinyurl.com/100DaysOfCodeLog
 
 Day 22
-Practiced #Python If Statements, Nested If Statements, Accessing Properties, Return Statements, Strings, Variables & While Loops - I am level 30! @CodeCombat Lessons completed: Getting Started, Lists, Adding and Updating List Elements #Progate Completed Exercise 16. Reading and Writing Files @lzsthw "Learn Python 3 the Hard Way" I also coded a Shopping App @SoloLearn
+Practiced #Python If Statements, Nested If Statements, Accessing Properties, Return Statements, Strings, Variables & While Loops - I am level 30! @CodeCombat Lessons completed: Getting Started, Lists, Adding and Updating List Elements #Progate Completed Exercise 16. Reading and Writing Files @lzsthw "Learn Python 3 the Hard Way" I also coded a shopping app @SoloLearn
 
 My Shopping App: https://code.sololearn.com/ckLg604MfWvk/#py
 
