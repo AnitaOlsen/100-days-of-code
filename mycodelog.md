@@ -1,5 +1,8 @@
 My Code Log for #100DaysOfCode  https://tinyurl.com/100DaysOfCodeLog
 
+Day 22
+Practiced #Python If Statements, Nested If Statements, Accessing Properties, Return Statements, Strings, Variables & While Loops @CodeCombat Lessons completed: Getting Started, Lists, Adding and Updating List Elements #Progate Completed Exercise 16. Reading and Writing Files @lzsthw "Learn Python 3 the Hard Way"
+
 Day 21
 Practiced #Python If Statements, Nested If Statements, Accessing Properties, Strings, Variables & While Loops @CodeCombat Lessons completed: elif Statements, Combining Conditions, Calculating Prices, Getting Input & Control Flow - Python Study Ⅰ completed! #Progate
 
