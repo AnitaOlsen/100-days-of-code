@@ -1,7 +1,7 @@
 My Code Log for #100DaysOfCode
 
 Day 23
-Practiced #Python If Statements, Nested If Statements, Accessing Properties, Strings, Variables & While Loops @CodeCombat Completed Exercise 17. More Files @lzsthw "Learn Python 3 the Hard Way» Completed lessons: For Loops, Dictionaries, Adding and Updating Dictionary Elements #Progate Completed #SQL Fundamentals course @SoloLearn Completed Project Create Table from the Learn SQL course @Codecademy Basic Concepts, Filtering, Functions, Subsqueries & JOIN, Table Operations - SQL Fundamentals completed! @SoloLearn Completed Project Create Table from the Learn SQL course on @Codecademy
+Practiced #Python If Statements, Nested If Statements, Accessing Properties, Strings, Variables & While Loops @CodeCombat Completed Exercise 17. More Files @lzsthw "Learn Python 3 the Hard Way» Completed lessons: For Loops, Dictionaries, Adding and Updating Dictionary Elements #Progate Basic Concepts, Filtering, Functions, Subsqueries & JOIN, Table Operations - SQL Fundamentals completed! Also retook Control Structures: Boolean Logic & Operator Precedence @SoloLearn Completed Project Create Table from the Learn SQL course @Codecademy
 
 Day 22
 Practiced #Python If Statements, Nested If Statements, Accessing Properties, Return Statements, Strings, Variables & While Loops - I am level 30! @CodeCombat Lessons completed: Getting Started, Lists, Adding and Updating List Elements #Progate Completed Exercise 16. Reading and Writing Files @lzsthw "Learn Python 3 the Hard Way" I coded a shopping app @SoloLearn Completed Project Bicycle World from Learn the Command Line course @Codecademy
