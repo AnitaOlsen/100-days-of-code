@@ -1,11 +1,11 @@
-# #100DaysOfCode Log - Round 1 - [Anita Olsen]
+# #100DaysOfCode Log - Round 1 - Anita Olsen
 
 The log of my #100DaysOfCode challenge. Started on 20th of March, 2018.
 
 ## Log
 
 ### R1D23
-Practiced #Python If Statements, Nested If Statements, Accessing Properties, Strings, Variables & While Loops @CodeCombat Completed Exercise 17. More Files @lzsthw "Learn Python 3 the Hard Way" Completed lessons: For Loops, Dictionaries, Adding and Updating Dictionary Elements & For Loops 2 #Progate Basic Concepts, Filtering, Functions, Subsqueries & JOIN, Table Operations - SQL Fundamentals completed! Retook Control Structures: Boolean Logic & Operator Precedence from the Python 3 Tutorial @SoloLearn Completed Project Create Table from the Learn SQL course @Codecademy
+Practiced #Python Basic Syntax, Functions, If Statements, Nested If Statements, Accessing Properties, Strings, Variables & While Loops @CodeCombat Completed Exercise 17. More Files @lzsthw "Learn Python 3 the Hard Way" Completed lessons: For Loops, Dictionaries, Adding and Updating Dictionary Elements & For Loops 2 #Progate Basic Concepts, Filtering, Functions, Subsqueries & JOIN, Table Operations - SQL Fundamentals completed! Retook Control Structures: Boolean Logic & Operator Precedence from the Python 3 Tutorial @SoloLearn Completed Project Create Table from the Learn SQL course @Codecademy
 
 ### R1D22
 Practiced #Python If Statements, Nested If Statements, Accessing Properties, Return Statements, Strings, Variables & While Loops - I am level 30! @CodeCombat Lessons completed: Getting Started, Lists, Adding and Updating List Elements #Progate Completed Exercise 16. Reading and Writing Files @lzsthw "Learn Python 3 the Hard Way" I coded a shopping app @SoloLearn Completed Project Bicycle World from Learn the Command Line course @Codecademy
