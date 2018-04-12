@@ -5,7 +5,7 @@ The log of my #100DaysOfCode challenge. Started on 20th of March, 2018.
 ## Log
 
 ### R1D24 
-Practiced for 7 hours: #Python Basic Syntax, Arguments, Functions, Arithmetic, Boolean Or, Boolean Equality, Boolean Greater/Less, If Statements, If/Else Statements, Nested If Statements, Accessing Properties, Reading the Docs, Cartesian Coordinates, Strings, Variables, While Loops & Basic HTML as I retook Kithgard Dungeon, a little over half of the completed levels from Backwoods Forest & I completed 11 new levels on Backwoods Forest today @CodeCombat  
+Practiced for 7 hours: #Python Basic Syntax, Arguments, Functions, Arithmetic, Boolean Or, Boolean Equality, Boolean Greater/Less, If Statements, If/Else Statements, Nested If Statements, Accessing Properties, Reading the Docs, Cartesian Coordinates, Strings, Variables, While Loops & Basic HTML as I retook Kithgard Dungeon, a little over half of my completed levels from Backwoods Forest, completed 11 new levels on Backwoods Forest & duelled other players today as well @CodeCombat  
 
 ### R1D23
 Practiced #Python Basic Syntax, Functions, If Statements, If/Else Statements, Nested If Statements, Accessing Properties, Strings, Variables & While Loops @CodeCombat Completed Exercise 17. More Files @lzsthw "Learn Python 3 the Hard Way" Completed lessons: For Loops, Dictionaries, Adding and Updating Dictionary Elements & For Loops 2 #Progate Retook Control Structures: Boolean Logic & Operator Precedence from the Python 3 Tutorial, and also Basic Concepts, Filtering, Functions, Subsqueries & JOIN, Table Operations - SQL Fundamentals completed! @SoloLearn Completed Project Create Table from the Learn SQL course @Codecademy
