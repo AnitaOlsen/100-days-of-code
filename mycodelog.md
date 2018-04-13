@@ -4,8 +4,8 @@ The log of my #100DaysOfCode challenge. Started on 20th of March, 2018.
 
 ## Log
 
-## R1D25 
-Practiced #Python If Statements, If/Else Statements, Nested If Statements, Accessing Properties, Strings, Variables & While Loops @CodeCombat Completed Working with Loops: While Loops, Break Statements & Continue Statements #Progate  
+### R1D25 
+Practiced #Python If Statements, If/Else Statements, Nested If Statements, Accessing Properties, Strings, Variables & While Loops @CodeCombat Completed lessons: While Loops, Break Statements & Continue Statements #Progate  
 
 ### R1D24 
 Practiced for 7 hours: #Python Basic Syntax, Arguments, Functions, Arithmetic, Boolean Or, Boolean Equality, Boolean Greater/Less, If Statements, If/Else Statements, Nested If Statements, Accessing Properties, Reading the Docs, Cartesian Coordinates, Strings, Variables, While Loops & Basic HTML as I retook Kithgard Dungeon, a little over half of my completed levels from Backwoods Forest, completed 11 new levels on Backwoods Forest & dueled other players today @CodeCombat  
