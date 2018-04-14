@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on 20th of March, 2018.
 
 ## Log
 
+### R1D26 
+Retook Basic Concepts & Control Structures from the Python 3 Tutorial @SoloLearn Practiced #Python Basic Syntax, Functions,  If/Else Statements, If Statements, Nested If Statements, Strings, Variables & While Loops @CodeCombat Lesson Completed: Conditionals & Control Flow from the updated Learn Python course @Codecademy 
+
 ### R1D25 
 Practiced #Python If Statements, If/Else Statements, Nested If Statements, Accessing Properties, Strings, Variables & While Loops @CodeCombat Completed lessons: While Loops, Break Statements & Continue Statements #Progate  
 
