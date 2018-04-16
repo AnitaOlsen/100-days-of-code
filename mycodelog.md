@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on 20th of March, 2018.
 
 ## Log
 
+### R1D28 
+I have been working on the learn HTML course @Codecademy & on a #Progate lesson Practiced #Python Basic Syntax, If/Else Statements, If Statements, Nested If Statements, Strings, Variables, While Loops, I dueled other players & completed a repeatable level @CodeCombat
+
 ### R1D27 
 Practiced #Python Basic Syntax, Functions, If Statements, If/Elif Statements, Nested If Statements, Accessing Properties, Strings, Variables, While Loops, Cartesian Coordinates & Reading the Docs @CodeCombat Completed lesson: Preparing the Items #Progate
 
