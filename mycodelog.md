@@ -5,7 +5,7 @@ The log of my #100DaysOfCode challenge. Started on 20th of March, 2018.
 ## Log
 
 ### R1D29 
-Practiced #Python Basic Syntax, If Statements, Nested If Statements, Else Statements, Accessing Properties, While Loops with Conditionals, While Loops, Strings & Variables I also unlocked Sarven Desert @CodeCombat 
+Practiced #Python Basic Syntax, If Statements, Nested If Statements, Else Statements, Accessing Properties, While Loops with Conditionals, While Loops, Boolean And, Boolean Or, Strings & Variables I also unlocked Sarven Desert @CodeCombat 
 
 ### R1D28 
 I have been working on the learn HTML course @Codecademy & on a #Progate lesson Practiced #Python Basic Syntax, If/Else Statements, If Statements, Nested If Statements, Strings, Variables, While Loops, I dueled other players & completed a repeatable level @CodeCombat
