@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on 20th of March, 2018.
 
 ## Log
 
+### R1D31
+Practiced #Python If Statements, Nested If Statements, Accessing Properties, Strings, Variables, While Loops & I dueled other players @CodeCombat
+
 ### R1D30 
 Practiced #Python Basic Syntax, If/Else Statements, If Statements, Nested If Statements, Argument, Strings, Variables, Accessing Properties, Boolean Greater/Less, While Loops & While Loops with Conditionals @CodeCombat Completed Exercise 18. Names, Variables, Code, Functions @lzsthw "Learn Python 3 the Hard Way"
 
