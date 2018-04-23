@@ -1,8 +1,11 @@
 # #100DaysOfCode Log - Round 1 - Anita Olsen
 
-The log of my #100DaysOfCode challenge. Started on 20th of March, 2018.
+The log of my #100DaysOfCode challenge. Started on the 20th of March, 2018.
 
 ## Log
+
+### R1D35
+Completed Exercise 19. Functions and Variables @lzsthw "Learn Python 3 the Hard Way" Practiced #Python Functions, If/Else Statements, If Statements, Nested If Statements, Accessing Properties, Return Statements, Strings, Variables & While Loops @CodeCombat
 
 ### R1D34 
 Practiced #Python If Statements, Nested If Statements, Accessing  Properties, Strings, Variables, While Loops & I dueled other players @CodeCombat Been working on the learn HTML course @Codecademy
