@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on the 20th of March, 2018.
 
 ## Log
 
+### R1D36
+Lesson Completed: Introduction to HTML, Lesson Completed: HTML Document Standards & Course Completed: Learn HTML: Elements and Structure @Codecademy Practiced #Python If Statements, If/Else Statements, Nested If Statements, Accessing Properties, Basic Syntax, Boolean Greater/Less, Strings, Variables & While Loops @CodeCombat 
+
 ### R1D35
 Completed Exercise 19. Functions and Variables @lzsthw "Learn Python 3 the Hard Way" Practiced #Python Functions, If/Else Statements, If Statements, Nested If Statements, Accessing Properties, Return Statements, Strings, Variables & While Loops @CodeCombat
 
