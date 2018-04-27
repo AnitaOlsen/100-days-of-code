@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on the 20th of March, 2018.
 
 ## Log
 
+### R1D38
+Lesson Completed: PygLatin from the Learn Python course @Codecademy Completed the lesson: Buying an Item #Progate Practiced #Python Array Indexes, Array Length, Accessing Properties, Variables, While Loops with Conditionals, Iterating Over Arrays & dueled other players @CodeCombat
+
 ### R1D37
 Worked on Exercise 20. Functions and Files @lzsthw "Learn Python 3 the Hard Way" Retook Project Fashion Blog @Codecademy Practiced #Python Basic Syntax, If/Else Statements, If Statements, Nested If Statements, Accessing Properties, Variables & While Loops @CodeCombat
 
