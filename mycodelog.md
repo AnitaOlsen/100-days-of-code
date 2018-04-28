@@ -4,6 +4,9 @@ The log of my #100DaysOfCode challenge. Started on the 20th of March, 2018.
 
 ## Log
 
+### R1D39
+Practiced #Python Basic Syntax, Functions, If/Else Statements, If Statements, Return Statements, Strings, Variables, While Loops, While Loops with Conditionals & I dueled other players @CodeCombat 
+
 ### R1D38
 Lesson Completed: PygLatin from the Learn Python course @Codecademy Completed the lesson: Buying an Item #Progate Practiced #Python Array Indexes, Array Length, Accessing Properties, Variables, While Loops with Conditionals, Iterating Over Arrays & dueled other players @CodeCombat
 
