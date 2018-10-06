@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - Anita Olsen
 
-The log of my #100DaysOfCode challenge. Started on the 1st of August, 2018.
+The log of my #100DaysOfCode challenge. Started on the 6th of October, 2018.
 
 ## Log
 
