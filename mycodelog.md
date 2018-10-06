@@ -5,11 +5,7 @@ The log of my #100DaysOfCode challenge. Started on the 6th of October, 2018.
 ## Log
 
 ### R1D1
-I am restudying #LearnPython3TheHardWay by @lzsthw and completed Exercise 1. A Good First Program, Exercise 2. Comments and Pound Characters & Exercise 3. Numbers and Math. 
-
-I finished reading and completed all of the activities from the book #HelloRuby Adventures in #Coding by @lindaliukas A book which teaches #AlgorithmicThinking: Sequence, divide into parts, see patterns 💎 
-
-@CodeCombat duels (practiced while True, variables & if and else statements)
+I am not going to write anything more here. It is too confusing and nothing works.
 
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
